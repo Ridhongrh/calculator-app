@@ -9,4 +9,8 @@ class Calculator
 	{
 		return a + b;
 	}
+	static in t Pengurangan (int a, int b)
+	{
+		return a - b;
+	}
 }
